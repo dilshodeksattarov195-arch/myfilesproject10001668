@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvave",
+        "uuid": 12763536,
+        "checksum": "tcjx8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
